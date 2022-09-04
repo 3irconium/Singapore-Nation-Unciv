@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Republic of Singapore",
+		"leaderName": "Lee Kuan Yew",
+		"adjective": ["Singaporean"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Great Prime Minister of Singapore, Lee Kuan Yew, you brought a suddenly independent Singapore out of the failure of the Federation of Malaysia. Your leadership and willingness to work for the long view of Singapore from the moment of separation to the last moments of your life transformed the former port town into the metropolis of Asia. Your wise and prudential outlook solidified the path of rapid development and prosperity for a new Singaporean people.",
+		"startIntroPart2": "Alas, disagreement and turmoil rocks the nation again. Singapore is still a tiny island surrounded on all sides. Will you step forth to recreate a harmonious multi-ethnic existence? Can you stay firm to long term commitments and sacrifice for the betterment of future generations? Can you go onwards and build a civilisation that can stand the test of time?",
+		
+		"introduction": "I am delighted to have made your acquaintance. I will see to it that Singapore is a valuable investment for you, my friend.",
+		"declaringWar": "I have to go for it - if only for the sake of progress. Your tyranny must be stopped or you will plunge the whole world into chaos.",
+		"attacked": "I am not here to play somebody else's game. I have a few million people’s lives to account for. And Singapore will survive.",
+		"defeated": "It is a moment of anguish because all my life... you see, the whole of my adult life... I had believed in this system...",
+		"tradeRequest": "I have an offer that you should definitely be interested in!",
+		
+		"neutralHello": "What do you wish to discuss?",
+		"hateHello": "Someone ascends to heaven, and you climb into the mud. What do you want?",
+
+		"outerColor": [189, 132, 159],
+		"innerColor": [0, 11, 61],
+		
+		"favoredReligion": "Confucianism",
+		
+		"uniqueName": "From Third World to First",
+		"uniques": [
+		  "[+1 Culture] from every [Luxury resource]",
+		  "Empire enters golden age <after discovering [Economics]>",
+      "[Great Artist] is earned [50]% faster <during a Golden Age>",
+      "[20]% growth [in all cities] <during a Golden Age>",
+      "[+1 Gold] per [2] population [in all cities] <during a Golden Age>",
+      "[25]% [Culture] [in all cities] <during a Golden Age>"
+		],
+		"cities": [
+		  "Singapore",
+		  "Sentosa",
+		  "Changi",
+		  "Bedok",
+		  "Ubin",
+		  "Jurong",
+		  "Tuas",
+		  "Sungei",
+		  "Senoko",
+		  "Haugang",
+		  "Katong",
+		  "Clementi",
+		  "Bukit Timah",
+		  "Busing",
+		  "Bakum",
+		  "Sebarok",
+		  "Busing",
+		  "Pawai",
+		  "Senang",
+		  "Semakau",
+		  "Tampine"
+		],
+		
+    "spyNames": [
+      "Fang Min",
+      "Jai Kabir",
+      "Ai Yan",
+      "Jing Li",
+      "Sahil Darsh",
+      "Ajar Sitara",
+      "Liu Wang",
+      "Mia Geors",
+      "Zhao Kabir",
+      "Amar Shaan"
+    ]
+	}
+]

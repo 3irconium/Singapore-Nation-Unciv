@@ -1,0 +1,19 @@
+[
+  {
+		"name": "National Service",
+		"unitType": "Gunpowder",
+		"replaces": "Marine",
+		"uniqueTo": "Republic of Singapore",
+		"movement": 2,
+		"strength": 60,
+		"cost": 300,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"attackSound": "shot",
+		"uniques": [
+		  "Normal vision when embarked",
+		  "Defense bonus when embarked",
+		  "[+2] Movement <in [Coastal] tiles>"
+		]
+	}
+]

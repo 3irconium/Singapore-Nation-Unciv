@@ -1,0 +1,33 @@
+game.png
+size: 800, 250
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Esplanade Theater
+  rotate: false
+  xy: 450, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+LeaderIcons/Lee Kuan Yew
+  rotate: false
+  xy: 0, 0
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+NationIcons/Republic of Singapore
+  rotate: false
+  xy: 650, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/National Service
+  rotate: false
+  xy: 250, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
