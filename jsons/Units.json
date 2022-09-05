@@ -3,7 +3,7 @@
 		"name": "National Service",
 		"unitType": "Gunpowder",
 		"replaces": "Marine",
-		"uniqueTo": "Republic of Singapore",
+		"uniqueTo": "Singapore",
 		"movement": 2,
 		"strength": 60,
 		"cost": 300,

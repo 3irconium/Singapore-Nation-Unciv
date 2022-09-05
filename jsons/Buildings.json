@@ -2,7 +2,7 @@
   {
 		"name": "Esplanade Theater",
 		"replaces": "Opera House",
-		"uniqueTo": "Republic of Singapore",
+		"uniqueTo": "Singapore",
 		"culture": 4,
 		"happiness": 1,
 		"specialistSlots": {"Artist": 2},
