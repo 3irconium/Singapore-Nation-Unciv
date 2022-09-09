@@ -27,10 +27,9 @@
 		"uniques": [
 		  "[+1 Culture] from every [Luxury resource]",
 		  "Empire enters golden age <after discovering [Economics]>",
-      "[Great Artist] is earned [55]% faster <during a Golden Age>",
       "[30]% growth [in all cities] <during a Golden Age>",
-      "[+1 Gold] per [2] population [in all cities] <during a Golden Age>",
-      "[50]% [Culture] [in all cities] <during a Golden Age>"
+      "[+1 Production, +1 Science, +1 Culture] per [2] population [in all cities] <during a Golden Age>",
+      "[50]% [Gold] [in all cities] <during a Golden Age>"
 		],
 		"cities": [
 		  "Singapore",
